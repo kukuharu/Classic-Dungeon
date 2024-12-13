@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b1df1dd5090150b479125b3561c9c1ed
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - damageSoundClip: {fileID: 8300000, guid: aeb5274a0f524274697ec5371f13ba75, type: 3}
+  - deathEffect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
